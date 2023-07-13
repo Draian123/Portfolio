@@ -199,7 +199,7 @@ const Navbar = () => {
 							</p>
 							<div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
 								<a
-									href="https://www.linkedin.com/in/wasim-ay/"
+									href="https://www.linkedin.com/in/dennis-beitel-75b207176/"
 									target="_blank"
 									rel="noreferrer"
 								>
@@ -208,7 +208,7 @@ const Navbar = () => {
 									</div>
 								</a>
 								<a
-									href="https://github.com/simbaig/"
+									href="https://github.com/Draian123"
 									target="_blank"
 									rel="noreferrer"
 								>
