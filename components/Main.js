@@ -30,7 +30,7 @@ const Main = () => {
 					<h1 className="py-4 text-gray-700">
 						Hi, I&apos;m <span className="text-[#1E90FF]">Dennis</span>
 					</h1>
-					<h1 className="py-2 text-gray-700">{"<"}Junior Fullstack Developer{"/>"}</h1>
+					<h1 className="py-2 text-gray-700">{"<"}Fullstack Developer || Data Analyst{"/>"}</h1>
 					<p className="py-4 text-gray-600 max-w-[70%] m-auto">
 							Currently open for work in Full-time and Freelance positions.
 					</p>
