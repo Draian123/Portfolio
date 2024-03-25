@@ -12,7 +12,9 @@ import Mongo from "../public/assets/skills/mongo.png";
 import Typescript from "../public/assets/skills/typescript.png";
 import MaterialUI from "../public/assets/skills/materialUI.png";
 import Express from "../public/assets/skills/express.png";
-
+import Python from "../public/assets/skills/python.png";
+import MySQL from "../public/assets/skills/mysql.png";
+import Tableau from "../public/assets/skills/tableau.png";
 
 
 
@@ -142,6 +144,36 @@ const Skills = () => {
 							</div>
 							<div className="flex flex-col justify-center items-center">
 								<h3>Express</h3>
+							</div>
+						</div>
+					</div>
+					<div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+						<div className="grid grid-cols-2 gap-4 justify-center items-center">
+							<div className="m-auto">
+								<Image src={Python} width="64px" height="64px" alt="/" />
+							</div>
+							<div className="flex flex-col justify-center items-center">
+								<h3>Python</h3>
+							</div>
+						</div>
+					</div>
+					<div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+						<div className="grid grid-cols-2 gap-4 justify-center items-center">
+							<div className="m-auto">
+								<Image src={MySQL} width="64px" height="64px" alt="/" />
+							</div>
+							<div className="flex flex-col justify-center items-center">
+								<h3>MySQL</h3>
+							</div>
+						</div>
+					</div>
+					<div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+						<div className="grid grid-cols-2 gap-4 justify-center items-center">
+							<div className="m-auto">
+								<Image src={Tableau} width="64px" height="64px" alt="/" />
+							</div>
+							<div className="flex flex-col justify-center items-center">
+								<h3>Tableau</h3>
 							</div>
 						</div>
 					</div>
